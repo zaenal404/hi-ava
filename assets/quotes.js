@@ -4,7 +4,7 @@ export default [
     { author: "aez", quotes: "Kuchiyose Non Jutsu" },
     { author: "aez", quotes: "Hey! kamu,,, iya kamu" },
     { author: "aez", quotes: "I love you" },
-    { author: "aez", quotes: "I may not with you everyday, but I love you everyday" },
-    { author: "aez", quotes: "I love you. Nabila" },
-    { author: "aez", quotes: "I'm sorry for loving you },
+    { author: "zae", quotes: "I may not with you everyday, but I love you everyday" },
+    { author: "zae", quotes: "I love you. Nabila" },
+    { author: "zae", quotes: "I'm sorry for loving you },
 ];
